@@ -111,7 +111,7 @@ public class FriendRelationshipBS {
 
     public void GCMNotification(String friendAdder, String friendAdded, HttpServletRequest req, HttpServletResponse resp) {
 
-        String GOOGLE_SERVER_KEY = "AIzaSyB88PAc35WT1E0_tGsFv-XHwtOOdF0QCsk";
+        String GOOGLE_SERVER_KEY = "AIza..../*GCM Server Key*/";
         String MESSAGE_KEY = "message";
 
         Person person = personRepository.findByToken(friendAdder);
