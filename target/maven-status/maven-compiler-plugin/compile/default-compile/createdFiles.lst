@@ -1,0 +1,15 @@
+com/msesoft/fom/repository/MobileSessionRepository.class
+com/msesoft/fom/repository/ActivityRepository.class
+com/msesoft/fom/extra/Constants.class
+com/msesoft/fom/domain/MobileSession.class
+com/msesoft/fom/domain/Register.class
+com/msesoft/fom/domain/Token.class
+com/msesoft/fom/business/ActivityBS.class
+com/msesoft/fom/config/Config.class
+com/msesoft/fom/controller/ActivityController.class
+com/msesoft/fom/domain/ActivityModel.class
+com/msesoft/fom/domain/Image.class
+com/msesoft/fom/repository/RelationRepository.class
+com/msesoft/fom/domain/ActivityModelCustom.class
+com/msesoft/fom/domain/CustomFriendRelationship.class
+com/msesoft/fom/domain/RelationshipModel.class
