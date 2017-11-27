@@ -23,7 +23,7 @@ import java.util.Random;
 import java.util.UUID;
 
 /**
- * Created by kerse on 23.06.2016.
+ * Created by oguz on 23.06.2016.
  */
 
 
